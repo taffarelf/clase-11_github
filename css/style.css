@@ -1,0 +1,10 @@
+.carousel-item{
+    width: auto;
+    height: 500px;
+    transition: transform: 0s ease-in-out;
+}
+
+.carousel-item.active{
+    display: flex;
+    
+}
